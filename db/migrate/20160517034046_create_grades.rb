@@ -12,7 +12,7 @@ class CreateGrades < ActiveRecord::Migration
       t.boolean :wednesday
       t.boolean :thursday
       t.boolean :friday
-      t.boole :saturday
+      t.boolean :saturday
       t.boolean :sunday
 
       t.timestamps null: false
