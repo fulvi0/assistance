@@ -1,0 +1,31 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  ciclo: MyString
+  career: MyString
+  session: 1
+  title: MyString
+  credit: 1
+  teacher: MyString
+  monday: false
+  tuesday: false
+  wednesday: false
+  thursday: false
+  friday: false
+  saturday: 
+  sunday: false
+
+two:
+  ciclo: MyString
+  career: MyString
+  session: 1
+  title: MyString
+  credit: 1
+  teacher: MyString
+  monday: false
+  tuesday: false
+  wednesday: false
+  thursday: false
+  friday: false
+  saturday: 
+  sunday: false
